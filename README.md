@@ -7,11 +7,4 @@ Stop Keeping everything in your mind, Start using the APP, SAVE ANYTHING YOU REA
 
 ## PREVIEW
 
-### Splash-Screen
-![alt text](https://github.com/prodromossarakinou/Your-Notes/blob/main/github/images/Splash%20Screen.png)
-
-### Home Screen
-![alt text](https://github.com/prodromossarakinou/Your-Notes/blob/main/github/images/Home%20Screen.png)
-
-### Home screen while no notes are available
-![alt text](https://github.com/prodromossarakinou/Your-Notes/blob/main/github/images/Home%20No%20notes%20Screen.png)
+<img src='https://github.com/prodromossarakinou/Your-Notes/blob/main/github/images/Splash%20Screen.png' width='250'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='https://github.com/prodromossarakinou/Your-Notes/blob/main/github/images/Home%20Screen.png' width='250'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='https://github.com/prodromossarakinou/Your-Notes/blob/main/github/images/Home%20No%20notes%20Screen.png' width='250'>
