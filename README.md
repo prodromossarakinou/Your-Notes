@@ -2,11 +2,8 @@
 
 ![alt text](https://github.com/prodromossarakinou/Your-Notes/blob/main/assets/images/png/logo/row_logo_primary.png)
 
-With Your Notes you can save everything you need
-
-### Stop Keeping everything in your mind, Start using the APP,
-
-### MAXIMIZE YOUR MEMORY SPACE!
+## MAXIMIZE YOUR MEMORY SPACE!
+Stop Keeping everything in your mind, Start using the APP, SAVE ANYTHING YOU REALLY NEED TO REMEMBER. Keep your secrets safe, your daily thoughts, etc... Use one app to organize all your thoughts. Try it now!
 
 ## PREVIEW
 
