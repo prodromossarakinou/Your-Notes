@@ -1,10 +1,14 @@
 import 'package:flutter/material.dart';
+import 'package:your_notes_app/getx/binding/general_binding.dart';
 import 'package:your_notes_app/graphic/app/app_scaffold.dart';
 import 'package:your_notes_app/static/app_colors.dart';
 import 'package:your_notes_app/static/app_const.dart';
 import 'package:your_notes_app/static/numeric.dart';
 
 void main() {
+
+  GeneralBinding().dependencies();
+
   runApp(const MyApp());
 }
 
